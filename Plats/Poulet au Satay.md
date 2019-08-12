@@ -23,6 +23,11 @@ https://www.papillesetpupilles.fr/2016/07/blancs-de-poulet-sautes-sauce-satay.ht
 * 100 ml d’eau
 * coriandre fraîche en topping
 
+## Notes
+
+* Possibilité de mettre du lait de coco à la place de l'eau.
+* Possibilité d'ajouter des haricots verts.
+
 ## Préparation
 
 1. Epluchez les gousses d’ail, l’échalote et le gingembre. Coupez le tout en 4 et mettez dans le bol du robot. Ajoutez le jus du citron vert, son zeste et tous les autres ingrédients, eau incluse, sauf le poulet. Mixez.
