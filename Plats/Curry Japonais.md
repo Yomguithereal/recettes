@@ -10,3 +10,8 @@
 * champignons de paris
 * 4 carrés de curry japonais
 * riz, 1-2 sachets
+
+## Préparation
+
+* oignons, poulet, carottes, champignon
+* 1 verre =~ 2 carrés
