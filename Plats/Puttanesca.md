@@ -2,10 +2,11 @@
 
 ## Ingrédients
 
-* 2 gousses d'ail
+* 4 gousses d'ail
 * piment
-* thon ou anchois
+* thon ou anchois (2 boîtes)
 * tomates
+* sauce tomate
 * olives noires (en conserve)
 * câpres
 * pâtes
