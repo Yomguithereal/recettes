@@ -20,4 +20,4 @@
 1. Eplucher et émincer l'oignon. Eplucher la carotte, la couper en rondelles. Dans une casserole, faire fondre un grosse noix de beurre. Y verser l'oignon et la carotte, et les faire revenir pendant 5 minutes.
 2. Ajouter les lentilles, des grains de poivre, le thym et le laurier, le cube, et couvrir d'environ deux fois le volume d'eau. Couvrir et laisser cuire environ 25 minutes à feu moyen.
 3. Piquer les saucisses, et les ajouter dans la casserole. Faire cuire encore 20 minutes.
-4. 5 minutes avant la fin de la cuisoon, saler les lentilles.
+4. 5 minutes avant la fin de la cuisson, saler les lentilles.
