@@ -1,15 +1,15 @@
 # Ajitamas
 
-*Recette pour 4 oeufs (je pense qu'il faut augmenter logarithmiquement la marinade en fonction du nombre d'oeufs, pas linéairement).*
+*Recette pour 4 oeufs (je pense qu'il faut augmenter logarithmiquement la marinade en fonction du nombre d'oeufs, pas linéairement). L'utilisation d'un sac congélation pour appliquer la marinade peut permettre de réduire de moitié la quantitié de marinade requise.*
 
 ## Ingrédients
 
-* 4 oeufs
-* 25 cl de saké
-* 12 cl de sauce soja
-* 12 cl de mirin
-* 25 cl d'eau
-* 100g de sucre
+* 6 oeufs
+* 20 cl de saké
+* 10 cl de sauce soja
+* 10 cl de mirin
+* 20 cl d'eau
+* 80g de sucre
 * gingembre (optionnel)
 * ail (optionnel)
 * bonito flakes
@@ -22,4 +22,4 @@
 4. Dans un récipient adapté, mélanger la marinade: saké, soja, mirin, eau, sucre, gingembre, ail.
 5. Déposer les oeufs dans la marinade, appliquer un papier genre sopalin par dessus afin que les oeufs puissent mariner de manière homogène.
 6. Saupoudrer de bonito flakes par dessus le papier.
-7. Mettre au frigo toute la nuit.
+7. Mettre au frigo toute la nuit, voire jusque 48h à votre convenance.
