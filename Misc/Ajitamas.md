@@ -1,6 +1,6 @@
 # Ajitamas
 
-*Recette pour 4 oeufs (je pense qu'il faut augmenter logarithmiquement la marinade en fonction du nombre d'oeufs, pas linéairement). L'utilisation d'un sac congélation pour appliquer la marinade peut permettre de réduire de moitié la quantitié de marinade requise.*
+*Recette pour 4 oeufs (je pense qu'il faut augmenter logarithmiquement la marinade en fonction du nombre d'oeufs, pas linéairement). L'utilisation d'un sac congélation pour appliquer la marinade peut permettre de réduire de moitié la quantité de marinade requise.*
 
 ## Ingrédients
 
@@ -12,7 +12,7 @@
 * 80g de sucre
 * gingembre (optionnel)
 * ail (optionnel)
-* bonito flakes
+* bonito flakes (optionnel)
 
 ## Préparation
 
