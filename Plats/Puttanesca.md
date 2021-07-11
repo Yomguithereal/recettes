@@ -4,10 +4,10 @@
 
 * 4 gousses d'ail
 * piment
-* thon ou anchois (2 boîtes)
+* thon ou anchois (2 boîtes), ou algues du pêcheur
 * tomates
 * sauce tomate
-* olives noires (en conserve)
+* olives noires (en conserve), ou kalamatas
 * câpres
 * pâtes
 
