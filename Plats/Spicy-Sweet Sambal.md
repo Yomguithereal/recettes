@@ -4,16 +4,16 @@ https://www.bonappetit.com/recipe/spicy-sweet-sambal-pork-noodles
 
 ## Ingrédients
 
-* 2 Tbsp. extra-virgin olive oil
-* 2 lb. ground pork, divided
-* 1 2" piece fresh ginger, peeled, cut into thin matchsticks or finely chopped
+* olive oil
+* ~0.9kg ground pork, divided
+* ~5cm piece of ginger
 * 8 garlic cloves, thinly sliced
 * 2 Tbsp. sugar
 * 2 Tbsp. tomato paste
 * 2 sprigs basil, plus more for serving
-* 1/3 cup hot chili paste (such as sambal oelek), can also use harissa
-* 1/4 cup soy sauce
-* 1/4 cup unseasoned rice vinegar
+* 40-50g hot chili paste (such as sambal oelek), can also use harissa
+* ~50-70ml soy sauce
+* ~50-70ml cup unseasoned rice vinegar
 * 1 + 1/2 lb. fresh ramen noodles or 16 oz. dried spaghetti
 * Kosher salt
 * 2 Tbsp. unsalted butter
