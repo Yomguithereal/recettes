@@ -14,7 +14,7 @@ https://www.bonappetit.com/recipe/spicy-sweet-sambal-pork-noodles
 * 40-50g hot chili paste (such as sambal oelek), can also use harissa
 * ~50-70ml soy sauce
 * ~50-70ml cup unseasoned rice vinegar
-* 1 + 1/2 lb. fresh ramen noodles or 16 oz. dried spaghetti
+* ~500g pasta
 * Kosher salt
 * 2 Tbsp. unsalted butter
 
