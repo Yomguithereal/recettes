@@ -24,5 +24,5 @@ https://www.bonappetit.com/recipe/spicy-sweet-sambal-pork-noodles
 2. Turn pieces and continue to cook, turning occasionally, until pork is browned on 2–3 sides, about 5 minutes longer.
 3. Add ginger, garlic, sugar, and remaining pork to pot and cook, breaking up pork into small clumps, until meat is nearly cooked through, about 5 minutes longer.
 4. Add tomato paste and 2 basil sprigs. Cook, stirring occasionally, until paste darkens, about 2 minutes.
-5. Add chili paste, soy sauce, vinegar, and 2 cups water. Bring to a simmer, reduce heat to low, and cook, uncovered and stirring occasionally, until sauce is slightly thickened and flavors have melded, 30–45 minutes.
+5. Add chili paste, soy sauce, vinegar, and 500ml water. Bring to a simmer, reduce heat to low, and cook, uncovered and stirring occasionally, until sauce is slightly thickened and flavors have melded, 30–45 minutes.
 6. Top noodles with torn basil.
