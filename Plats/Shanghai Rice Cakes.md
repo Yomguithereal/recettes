@@ -7,6 +7,7 @@
 * Sliced rice cakes
 * Viande hâchée
 * ciboule ou chou chinois ou poireaux
+* oignon et ou echalotte
 * 100g de shiitake ou champignons bruns
 * un peu de gingembre
 * 2 gousses d'ail
@@ -22,9 +23,9 @@
 
 ## Préparation
 
-1. Faire revenir la viande, l'oignon, l'ail et le gingembre
+1. Faire revenir la viande, l'oignon et cie, l'ail et le gingembre
 2. Ajouter les champignons
 3. Déglacer au vin de riz
-4. Ajouter la ciboule ou autre
+4. Ajouter la ciboule et cie
 5. Placer les gateaux de riz de manière homogène sur la mixture, ajouter l'eau, couvrir pendant 2 minutes
 6. Découvrir, faire réduire un peu, incorporer la sauce, faire réduire un peu et servir
