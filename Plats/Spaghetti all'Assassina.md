@@ -16,8 +16,8 @@ Refs:
 * du piment
 * huile d'olive
 * guanciale (optionnel)
-* tomates cerises (optionel)
-* paremesan (optionel)
+* tomates cerises (optionnel)
+* parmesan (optionnel)
 
 ## Préparation
 
