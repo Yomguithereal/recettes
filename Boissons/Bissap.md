@@ -3,7 +3,7 @@
 ## Ingrédients
 
 * 15g de fleurs d'hibiscus séchées
-* 70g de sucre
+* 50g de sucre
 * jus d'un citron jaune
 * poignée de feuilles de menthe
 
@@ -16,8 +16,9 @@
 ## Log
 
 1. J'ai essayé 1 sachet de sucre vanillé et du citron vert. Cela ne sucre pas assez et le citron vert est trop amer pour cette recette.
+2. Il vaut mieux eviter de mettre la puple du citron à infuser.
 
 ## A essayer
 
-* Je pense qu'on peut descendre à 50g de sucre
+* Je pense qu'on peut descendre à 30g de sucre
 * Fleur d'oranger
