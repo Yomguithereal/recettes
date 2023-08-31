@@ -24,3 +24,7 @@
 4. Remettre les merguez et mélanger
 5. Déposer 4 oeufs dans des trous, couvrir et faire cuire ~7min
 6. Servir avec de la feta emiettée et de la coriandre fraîche
+
+## Variante aubergine
+
+Si il faut enlever le poivron, il est possible de le remplacer par une aubergine. Auquel cas il convient de commencer par faire "sécher" l'aubergine à la poêle 5-6 min, puis réserver avant de commencer à faire cuire les merguez/chorizo.
