@@ -1,26 +1,43 @@
 # Gombo
 
-Adapté de: https://www.papillesetpupilles.fr/2018/09/gombo-comme-en-louisiane.html/
+Adapté de:
+
+- https://www.papillesetpupilles.fr/2018/09/gombo-comme-en-louisiane.html/
+- https://tastesbetterfromscratch.com/authentic-new-orleans-style-gumbo/
 
 ## Ingrédients
 
-* 50g de beurre
+*Roux*
+
+* 50g de beurre (ne pas hésiter à mettre un peu plus de gras que de farine)
 * 50g de farine
-* 2 saucisses de Montbéliard
+
+*Gombo*
+
+* 2 saucisses de Montbéliard coupées en demi tronçons
 * 400-500g de poulet
+* (options) crevettes
 * 1 poivron vert
-* 1 céleri branche
+* 1 branche de céleri
 * 1 oignon
-* 1 gousse d'ail
-* 3-4 càs d'épices cajun
+* 2 gousse d'ail
+* 2-4 càs d'épices cajun (cela dépend de la force des épices)
 * du sel
-* 1 litre d'eau
+* 1 litre de bouillon de poulet
 
 ## Préparation
 
-1. Préparer un roux brun dans une casserole avec la farine et le beurre. Réserver.
-2. Faire cuire les saucisses 3 min de chaque côté dans un fait-tout. Réserver.
-3. Faire cuire le poulet 5-6 min dans le même fait-tout. Réserver.
-4. Mettre le roux dans le fait-tout, faire chauffer. Mouiller dans 1 litre d'eau. Porter à faible ébullition en remuant constamment.
-5. Mettre les légumes, la viande et les épices dans le mélange. Faire cuire à feu doux, couvert, pendant 45 min.
-6. Découvrir et laisser cuire encore 20 min. (Commencer à faire bouillir l'eau pour le riz à peu près à ce moment là).
+*Roux*
+
+1. Mettre le beurre ou l'huile dans la casserole.
+2. Faire chauffer à feu moyen fort et faire fondre le beurre ou chauffer
+3. Ajouter la farine
+4. Remuer constamment pendant 5-10 minutes, faire attention à ne pas brûler. Faire brûnir au maximum si possible
+
+*Gombo*
+
+1. Faire cuire les saucisses 3 min de chaque côté dans un fait-tout. Réserver.
+2. Faire cuire le poulet 5-6 min dans le même fait-tout. Réserver.
+3. Mettre le roux dans le fait-tout, faire chauffer. Mouiller dans 1 litre d'eau. Porter à faible ébullition en remuant constamment.
+4. Mettre les légumes, la viande et les épices dans le mélange. Faire cuire à feu doux, couvert, pendant 45 min.
+5. Découvrir et laisser cuire encore 20 min (rajouter les crevettes ici si besoin). (Commencer à faire bouillir l'eau pour le riz à peu près à ce moment là).
