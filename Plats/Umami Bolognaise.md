@@ -31,3 +31,28 @@ Adapté de: https://owiowifouettemoi.com/2022/03/19/umami-bolo-express/
 
 * Si l'eau prend du temps à bouillir, mettre la préparation à feu très doux et laisser caraméliser un peu.
 * Il convient de ne pas être trop zélé sur les quantités d'anchois et de sauce soja sinon la sauce peut facilement être trop salée.
+
+---
+
+# Umami bolognaise (variante sans anchois)
+
+## Ingrédients
+
+* huile d'olive
+* 2 càc de gochugaru ou 1 grosse càc de gochugaru et ajouter une grosse càc de gochujang avec le concentré de tomate
+* 250g de boeuf hâché
+* 4 grosses gousses d'ail émincées
+* une petite conserve de concentré de tomate
+* 3 càs de sauce soja
+* poivre
+* 250g de pâtes
+
+## Préparation
+
+1. Mettre l'eau à bouillir pour les pâtes.
+2. Faire revenir le boeuf hâché dans une bonne quantité d'huile
+3. Ajouter l'ail et poivrer
+4. Ajouter le concentré de tomate et optionnellement le gochujang, délayer avec un peu d'eau, faire cuire 2-3 minutes
+5. Déglacer à la sauce soja
+6. Transférer les pâtes dans la sauce et incorporer une louche d'eau de cuisson. Conserver de l'eau de cuisson pour l'émulsion
+7. Servir avec de la sauce Worcestershire
